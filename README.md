@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-I'm a mechanical engineer by training aspiring to be data professional someday.   
+I'm a mechanical engineer by training aspiring to be a data professional someday.   
 
 <!--
 **Desa1egn/Desa1egn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 
 
 - 🔭 I’m currently working on ...
